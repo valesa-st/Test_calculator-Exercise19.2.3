@@ -56,4 +56,4 @@ class TestCalc:
 #     start_time = datetime.now()
 #     yield
 #     end_time = datetime.now()
-#     print(f"\nТест шел: {end_time - start_time}")
+#     print(f"\nВремя выполнения теста: {end_time - start_time}")
